@@ -1,0 +1,7 @@
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\bin\Debug\CAI_Ejercicio1.exe.config
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\bin\Debug\CAI_Ejercicio1.exe
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\bin\Debug\CAI_Ejercicio1.pdb
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\obj\Debug\CAI_Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\obj\Debug\CAI_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\obj\Debug\CAI_Ejercicio1.exe
+C:\Users\Nicolas\source\repos\CAI_Ejercicio1\CAI_Ejercicio1\obj\Debug\CAI_Ejercicio1.pdb
